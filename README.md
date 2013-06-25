@@ -45,3 +45,4 @@ Here is a sample of data needed to be uploaded into a database.
 
 just run: play run and you can access the application on localhost:9000.
 
+> Technology Stack: Scala Play2, MongodB, ReactiveMongo, Twitter Bootstrap
