@@ -1,5 +1,5 @@
-Archvia Dashboard
-=================
+Scala Play2 Dashboard
+======================
 
 A simple dashboard built on the top of MongoDB and using Scala Play2 framework. It demonstrates how to use ReactiveMongo Driver to tail a mongodb collection and display the result in a dashboard.
 
