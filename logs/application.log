@@ -1,0 +1,13 @@
+2013-06-25 08:41:23,972 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0%0:9000
+
+2013-06-25 08:41:49,069 - [INFO] - from application in New I/O  worker #1 
+ReactiveMongoPlugin starting...
+
+2013-06-25 08:41:49,088 - [INFO] - from application in New I/O  worker #1 
+ReactiveMongoPlugin successfully started with db 'archiva'! Servers:
+		[localhost:27017]
+
+2013-06-25 08:41:49,243 - [INFO] - from play in New I/O  worker #1 
+Application started (Dev)
+
